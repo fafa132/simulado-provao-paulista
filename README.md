@@ -17,13 +17,13 @@
 
 ---
 
-## 👋 Oi!
+## Sobre
 
 O **Simula Provão** é um projeto **feito por estudante, pra estudantes**.
 
-Na hora de estudar pro Provão Paulista, as provas antigas estavam todas lá, mas espalhadas em PDF, sem explicação, e corrigir na mão o gabarito de 48 questões não é exatamente divertido. Então juntei tudo num lugar só: dá pra fazer a prova como se fosse o dia de verdade, ver na hora onde errou e entender **por que** errou.
+Quando o provão chegou, eu estava com bastante medo, não tinha estudado nada e nem sabia uma maneira rápida para estudar, então decidi pedir pro claude criar um site com os pdfs das editais para conseguir um estudo rápido, eu nao me orgulho muito disso pois não gosto mt de coisas feitas por IA, porém deicidi deixar aqui caso alguem precise algum dia.
 
-É de graça, não tem cadastro, não tem anúncio. Só abrir e estudar. 📚
+É de graça, não tem cadastro, não tem anúncio. Só abrir e estudar. 
 
 <p align="center">
   <a href="https://fafa132.github.io/simulado-provao-paulista/">
@@ -70,7 +70,7 @@ Na hora de estudar pro Provão Paulista, as provas antigas estavam todas lá, ma
   <img src=".github/readme/estudo.webp" alt="Modo de estudo mostrando a correção comentada de uma questão" width="65%">
 </p>
 
-## 🚀 Como usar
+## Como usar
 
 1. Abra **[fafa132.github.io/simulado-provao-paulista](https://fafa132.github.io/simulado-provao-paulista/)**.
 2. Escolha a sua série.
@@ -78,22 +78,16 @@ Na hora de estudar pro Provão Paulista, as provas antigas estavam todas lá, ma
 
 Seu progresso fica salvo **só no seu navegador**: não precisa de conta e nada é enviado pra lugar nenhum. (Se limpar os dados do navegador ou trocar de aparelho, o histórico começa do zero.)
 
-## 🤖 Sobre a correção comentada
+## Sobre a correção comentada
 
 As provas e os gabaritos são os **oficiais**. Já as resoluções, os comentários de cada alternativa, as dicas e a dificuldade estimada foram escritos com ajuda de **inteligência artificial (Claude, da Anthropic)**.
 
 Pra diminuir a chance de erro, cada questão passou por três etapas: um primeiro texto, uma revisão feita por outra instância que resolveu a questão de novo sem olhar o rascunho e, quando as duas discordavam, uma terceira que decidia com base no gabarito oficial.
 
-Mesmo assim pode ter escapado alguma coisa. **Achou um erro? [Abra uma issue](https://github.com/fafa132/simulado-provao-paulista/issues/new)** dizendo a prova e o número da questão. Isso ajuda todo mundo que estuda por aqui. 🙏
+Mesmo assim pode ter escapado alguma coisa. **Achou um erro? [Abra uma issue](https://github.com/fafa132/simulado-provao-paulista/issues/new)** dizendo a prova e o número da questão. Isso ajuda todo mundo que estuda por aqui.
 
-## 🤝 Quer ajudar?
 
-- ⭐ Dê uma estrela no repositório.
-- 📲 Mande o link pro grupo da sala.
-- 🐞 Avise se achar erro em alguma questão ou explicação.
-- 💡 Tem uma ideia? Abre uma issue também.
-
-## 📄 Fontes e aviso
+## Fontes e aviso
 
 Provas e gabaritos oficiais do **Provão Paulista Seriado** (SEDUC-SP e Fundação Vunesp), 1ª aplicação, versão 1. A lista com o link de cada PDF original está na página **[Sobre](https://fafa132.github.io/simulado-provao-paulista/#sobre)** do site.
 
@@ -102,6 +96,5 @@ Este é um **site de estudo independente**, sem vínculo com a Secretaria da Edu
 ---
 
 <p align="center">
-  Feito com 💜 e muito café por estudante, pra estudantes.<br>
   <b>Boa prova!</b>
 </p>
